@@ -1,4 +1,4 @@
-# Hi, I'm Shubham 👋  
+# Hi there, I'm Shubham Bisht👋  
 
 🚀 Aspiring Data Scientist | Skilled in Python, Data Manipulation, Data Visualization, Machine Learning, Statistics and SQL | Visualization tools like Power BI and Tableau
 
