@@ -3,7 +3,7 @@
 🚀 Aspiring Data Scientist | Skilled in Python, Data Manipulation, Data Visualization, Machine Learning, Statistics and SQL | Visualization tools like Power BI and Tableau
 
 🔹 Exploring Data Science through projects in Machine Learning, Deep Learning, and AI.  
-🔹 Sharing my work on [Kaggle](https://bit.ly/shubhkaggle) and [LinkedIn](https://www.linkedin.com/in/shubhambisht7/).  
+🔹 Sharing my work on [Kaggle](https://www.kaggle.com/nihshu) and [LinkedIn](https://www.linkedin.com/in/shubhambisht7/).  
 
 ---
 
