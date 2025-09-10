@@ -18,7 +18,7 @@
 ### 📌 Featured Projects (building)
 - [Fake News Detection](https://github.com/username/fake-news-detection) – ML model using NLP & TF-IDF  
 - [COVID-19 Data Analysis](https://github.com/username/covid19-analysis) – Data visualization with Python  
-- [Games Sales Interactive Dashboard](https://github.com/username/ecommerce-dashboard) – Power BI & Tableau  
+- [Games Sales Interactive Dashboard](https://github.com/username/ecommerce-dashboard) – Python & Streamlit 
 
 ---
 
