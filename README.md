@@ -22,4 +22,5 @@
 
 ---
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/shubhambisht7/) 
+📫 Connect with me: [[LinkedIn](<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/3577a1b7-48cb-46de-ab62-c83a21a5a449" />
+)](https://www.linkedin.com/in/shubhambisht7/) 
