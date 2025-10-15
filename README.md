@@ -15,7 +15,7 @@
 
 ---
 
-### 📌 Featured Projects (building)
+### 📌 Featured Projects 
 - [Gurgaon RealEstate Machine Learning Capstone Project](https://github.com/shubh-nih/Gurgaon-RealEstate-ML-Project) – Python, Machine learning, Streamlit
 ---
 
