@@ -16,7 +16,8 @@
 ---
 
 ### 📌 Featured Projects 
-- [Gurgaon RealEstate Machine Learning Capstone Project](https://github.com/shubh-nih/Gurgaon-RealEstate-ML-Project) – Python, Machine learning, Streamlit
+- [Gurgaon RealEstate Machine Learning Capstone Project](https://github.com/shubh-nih/Gurgaon-RealEstate-ML-Project) – Python | Machine Learning | Streamlit
+- [Tweet Sentiment Analysis](https://github.com/shubh-nih/Tweets-Sentiment-Analysis) - Python | NLP | Machine Learning | Streamlit
 ---
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/shubhambisht7/) 
